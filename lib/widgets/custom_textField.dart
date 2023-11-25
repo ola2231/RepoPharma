@@ -23,7 +23,7 @@ class CustomTextField extends StatelessWidget {
         prefixIcon: Icon(
           icons,
           color: kBaseColor,
-          size:   30,
+          size:   29,
         ),
       ),
     );
